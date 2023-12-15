@@ -13,4 +13,4 @@ housing_median_age, median_income, and median_house_value are the median ages (y
 
 total_rooms, total_bedrooms, population, and households reflect the total number of rooms, bedrooms, people, and housing units in each block.
 
-The performed data analysis and problems answered in this dataset were part of a Mandatory Project assigned by Odin School.
+
